@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+pdf2image
+pytesseract
+python-dotenv
+openai
+jsonschema

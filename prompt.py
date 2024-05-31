@@ -1,81 +1,70 @@
-prompt='''You are an agent tasked with analyzing agro-advisory data from a txt file text. Your objective is to extract specific information and ensure the JSON structure matches the provided format. The Pydantic code provided defines the structure of the JSON response to be generated. Your task is to ensure that the JSON output adheres to this structure and includes appropriate descriptions for each field.
+prompt="""
+You are an agent tasked with analyzing agro-advisory data from a txt file text. Your objective is to extract specific information and ensure the JSON structure matches the provided format. The Pydantic code provided defines the structure of the JSON response to be generated. Your task is to ensure that the JSON output adheres to this structure and includes appropriate descriptions for each field.
+References:
+Definition of crops:
+- Crops will include crops like: wheat, maize, zaid, sugarcane, oilseeds, and other crops, etc.
+Definition of subgroups:
+- Subgroups are: pulses, vegetables, horticulture, animal husbandry, poultry, fisheries, sericulture, forestry, etc.
 
 Details:
 
-1. Weather Details:
-Extract weather details for each date mentioned in the PDF. For each date, provide the following information:
+1. Names of Crops:
+Extract the names crops and subgroups whose advisory is mentioned in the PDF. Provide them in lowercase. Important: Exclude any names_of_crops items for which there is no corresponding advisory.
 
-Rainfall (in mm)
-Maximum temperature (in Celsius)
-Minimum temperature (in Celsius)
-Maximum relative humidity (in percentage)
-Minimum relative humidity (in percentage)
-Wind speed (in kmph)
-Wind direction (in degrees)
-Cloud cover (in oktas)
+2. General advisory
+Extract the general advisory which is in the beginning of the text generally. General advisory lines are followed by crop based advisories. Y
+ou can find general advisory as:
+> Heading: In the current scenario of weather in the state, farmers have to manage their agriculture for the next two weeks.The following recommendations are made: -
+> Content of general advisory: n lines of general advisory.
+You have to include all theese n lines of content in general advisory string by identifying the heading of heneral advisory. Keep n lines in list.
 
-2. Names of Crops:
-Extract the names of crops, animal husbandry, poultry, and fishing whose advisory is mentioned in the PDF. Provide them in lowercase. Important: Exclude any names_of_crops items for which there is no corresponding advisory.
+3. Crops Data:
+Extract details of crops and subgroups.
+These details are given in this format in the text:
+> Wheat cultivation
+> <line 1>
+> <line 2>
+> ...
+> <line n>
+> Vegetable cultivation
+> <line 1>
+> <line 2>
+> ...
+> <line n>
+> fisheries
+> <line 1>
+> <line 2>
+> ...
+> <line n>
+> zaid crops
+> <line 1>
+> <line 2>
+> ...
+> <line n>
+... and so on for other crops and subgroups.
 
-3. General Advisory:
-Extract general advice about the weather and cropping from the PDF and provide it as a string.
+For above example, key will be name of crops or subgroup (wheat and vegetable cultivation in above example) and advisory will be the n lines there. Do this for all the crops and subgroups and all the lines of it.
 
-4. Crops Data:
-Extract details of crops, animal husbandry, poultry, and fishing from the PDF.
-For each crop/subgroup, there should be a distinct finite list of subgroups. Each entry should include advisory information for that crop.
-Tag each entry separately for each crop/subgroup (distinct finite list of these subgroups).
-Keep every point about that subgroup in the advisory field only.
-
-Ensure that the JSON output adheres to the provided structure and includes appropriate descriptions for each field.
-
-Note: Response should be in english only.
+Note: Do not leave any detail about any crop or subgroup. All the lines of advisory details below it should be in your response.
+Also, do not leave subgroups if there in text: pulses, vegetables, horticulture, animal husbandry, poultry, fisheries, sericulture, forestry, etc.
 
 Pydantic classes for json structure:
 
 from pydantic import BaseModel, Field
 from typing import Dict, List, Tuple
 
-class WeatherDetails(BaseModel):
-    rainfall: int = Field(..., description="Rainfall in mm")
-    t_max: int = Field(..., description="Maximum temperature in Celsius")
-    t_min: int = Field(..., description="Minimum temperature in Celsius")
-    rh_max: int = Field(..., description="Maximum relative humidity in percentage")
-    rh_min: int = Field(..., description="Minimum relative humidity in percentage")
-    wind_speed: int = Field(..., description="Wind speed in kmph")
-    wind_direction: int = Field(..., description="Wind direction in degrees")
-    cloud_cover: int = Field(..., description="Cloud cover in oktas")
-
 class CropsData(BaseModel):
     advisory: List[str] = Field(..., description="Advisory information for the crop")
 
 class AgroAdvisory(BaseModel):
-    weather_details: Dict[str, WeatherDetails] = Field(..., description="Weather details for each date")
     names_of_crops: List[str] = Field(..., description="Names of all crops/animal husbandry/poultry/fishing")
     general_advisory: str = Field(..., description="General advisory about weather and cropping")
     crops_data: Dict[str, CropsData] = Field(..., description="Details of each crops/animal husbandry/poultry/fishing")
-
-'''
+"""
 
 schema=schema = {
     "type": "object",
-    "properties": {
-        "weather_details": {
-            "type": "object",
-            "additionalProperties": {
-                "type": "object",
-                "properties": {
-                    "rainfall": {"type": "integer"},
-                    "t_max": {"type": "integer"},
-                    "t_min": {"type": "integer"},
-                    "rh_max": {"type": "integer"},
-                    "rh_min": {"type": "integer"},
-                    "wind_speed": {"type": "integer"},
-                    "wind_direction": {"type": "integer"},
-                    "cloud_cover": {"type": "integer"}
-                },
-                "required": ["rainfall", "t_max", "t_min", "rh_max", "rh_min", "wind_speed", "wind_direction", "cloud_cover"]
-            }
-        },
+    "properties": {        
         "names_of_crops": {"type": "array", "items": {"type": "string"}},
         "general_advisory": {"type": "string"},
         "crops_data": {
@@ -89,6 +78,6 @@ schema=schema = {
             }
         }
     },
-    "required": ["weather_details", "names_of_crops", "general_advisory", "crops_data"]
+    "required": ["names_of_crops", "general_advisory", "crops_data"]
 }
 

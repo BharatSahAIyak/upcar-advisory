@@ -5,3 +5,4 @@ pytesseract
 python-dotenv
 openai
 jsonschema
+aiohttp

@@ -9,7 +9,6 @@ import tempfile
 url="https://upcar.up.gov.in/en/page/advisory"
 
 def download_pdf(url, temp_dir):
-    print("f1")
     url="https://upcar.up.gov.in/"+url
     print("url>>", url)
     try:

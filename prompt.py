@@ -45,7 +45,8 @@ These details are given in this format in the text:
 
 For above example, key will be name of crops or subgroup (wheat and vegetable cultivation in above example) and advisory will be the n lines there. Do this for all the crops and subgroups and all the lines of it.
 
-Note: Do not leave any detail about any crop or subgroup. All the lines of advisory details below it should be in your response.
+
+Note: There are multiple lines for advisories. Limit to 200 words without leaving any noun and its reference behind.
 Also, do not leave subgroups if there in text: pulses, vegetables, horticulture, animal husbandry, poultry, fisheries, sericulture, forestry, etc.
 
 Pydantic classes for json structure:

@@ -24,7 +24,7 @@ load_dotenv()
 
 webhook_url=os.environ.get("WEBHOOK_URL")
 
-def main():
+def get_crop_advisory():
     temp_dir = tempfile.mkdtemp()
 
     try:
@@ -88,7 +88,7 @@ if __name__ == "__main__":
 
     for attempt in range(1, retries + 1):
         try:
-            main()    
+            get_crop_advisory()    
             break
         except Exception as e:
             logging.error(f"Attempt {attempt}: An error occurred: {e}")

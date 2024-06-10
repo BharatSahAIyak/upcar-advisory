@@ -1,0 +1,302 @@
+[
+    {
+      "districtName": "Agra",
+      "stationName": "Agra",
+      "stationCode": "42260"
+    },
+    {
+      "districtName": "Aligarh",
+      "stationName": "Aligarh",
+      "stationCode": "42262"
+    },
+    {
+      "districtName": "Amroha",
+      "stationName": "AMROHA APMC",
+      "stationCode": "100553"
+    },
+    {
+      "districtName": "Auraiya",
+      "stationName": "AURAIYA",
+      "stationCode": "100129"
+    },
+    {
+      "districtName": "Ayodhya",
+      "stationName": "AYODHYA",
+      "stationCode": "100554"
+    },
+    {
+      "districtName": "Azamgarh",
+      "stationName": "AZAMGARH",
+      "stationCode": "99539"
+    },
+    {
+      "districtName": "Baghpat",
+      "stationName": "BAGHPAT",
+      "stationCode": "99540"
+    },
+    {
+      "districtName": "Bahraich",
+      "stationName": "Bahraich",
+      "stationCode": "42273"
+    },
+    {
+      "districtName": "Ballia",
+      "stationName": "Ballia",
+      "stationCode": "42384"
+    },
+    {
+      "districtName": "Balrampur",
+      "stationName": "BALRAMPUR APMC",
+      "stationCode": "100131"
+    },
+    {
+      "districtName": "Banda",
+      "stationName": "Banda",
+      "stationCode": "42473"
+    },
+    {
+      "districtName": "Barabanki",
+      "stationName": "Barabanki",
+      "stationCode": "42370"
+    },
+    {
+      "districtName": "Bareilly",
+      "stationName": "Bareilly",
+      "stationCode": "42189"
+    },
+    {
+      "districtName": "Basti",
+      "stationName": "BASTI",
+      "stationCode": "100133"
+    },
+    {
+      "districtName": "Bhadohi",
+      "stationName": "BHADOHI",
+      "stationCode": "99542"
+    },
+    {
+      "districtName": "Bijnor",
+      "stationName": "Bijnor",
+      "stationCode": "42143"
+    },
+    {
+      "districtName": "Badaun",
+      "stationName": "BADAUN",
+      "stationCode": "100130"
+    },
+    {
+      "districtName": "Chandauli",
+      "stationName": "CHANDAULI",
+      "stationCode": "100140"
+    },
+    {
+      "districtName": "Chitrakoot",
+      "stationName": "Chitrakoot",
+      "stationCode": "30012"
+    },
+    {
+      "districtName": "Deoria",
+      "stationName": "DEORIA",
+      "stationCode": "100146"
+    },
+    {
+      "districtName": "Etah",
+      "stationName": "ETAH",
+      "stationCode": "100147"
+    },
+    {
+      "districtName": "Etawah",
+      "stationName": "Etawah",
+      "stationCode": "42364"
+    },
+    {
+      "districtName": "Farrukhabad",
+      "stationName": "FARRUKHABAD",
+      "stationCode": "100148"
+    },
+    {
+      "districtName": "Fatehpur",
+      "stationName": "FATEHPUR",
+      "stationCode": "100049"
+    },
+    {
+      "districtName": "Firozabad",
+      "stationName": "FIROZABAD APMC",
+      "stationCode": "100151"
+    },
+    {
+      "districtName": "Ghaziabad",
+      "stationName": "Ghaziabad",
+      "stationCode": "99927"
+    },
+    {
+      "districtName": "Ghazipur",
+      "stationName": "GHAZIPUR",
+      "stationCode": "99547"
+    },
+    {
+      "districtName": "Gonda",
+      "stationName": "GONDA",
+      "stationCode": "100555"
+    },
+    {
+      "districtName": "Gorakhpur",
+      "stationName": "Gorakhpur",
+      "stationCode": "42379"
+    },
+    {
+      "districtName": "Hamirpur",
+      "stationName": "Hamirpur",
+      "stationCode": "11001"
+    },
+    {
+      "districtName": "Hapur",
+      "stationName": "HAPUR",
+      "stationCode": "100154"
+    },
+    {
+      "districtName": "Hardoi",
+      "stationName": "Hardoi",
+      "stationCode": "42271"
+    },
+    {
+      "districtName": "Hathras",
+      "stationName": "HATHRAS",
+      "stationCode": "100156"
+    },
+    {
+      "districtName": "Jalaun",
+      "stationName": "JALAUN",
+      "stationCode": "100159"
+    },
+    {
+      "districtName": "Jaunpur",
+      "stationName": "JAUNPUR KVK",
+      "stationCode": "99549"
+    },
+    {
+      "districtName": "Jhansi",
+      "stationName": "Jhansi",
+      "stationCode": "42463"
+    },
+    {
+      "districtName": "Kannauj",
+      "stationName": "KANNAUJ",
+      "stationCode": "100163"
+    },
+    {
+      "districtName": "Kasganj",
+      "stationName": "KASGANJ",
+      "stationCode": "100165"
+    },
+    {
+      "districtName": "Kushinagar",
+      "stationName": "Kushinagar",
+      "stationCode": "90188"
+    },
+    {
+      "districtName": "Lakhimpur Kheri",
+      "stationName": "Lakhimpur Kheri",
+      "stationCode": "42270"
+    },
+    {
+      "districtName": "Lalitpur",
+      "stationName": "LALITPUR",
+      "stationCode": "100171"
+    },
+    {
+      "districtName": "Lucknow",
+      "stationName": "Lucknow-Airport",
+      "stationCode": "42369"
+    },
+    {
+      "districtName": "Mahoba",
+      "stationName": "MAHOBA",
+      "stationCode": "100174"
+    },
+    {
+      "districtName": "Mainpuri",
+      "stationName": "Mainpuri",
+      "stationCode": "42265"
+    },
+    {
+      "districtName": "Mathura",
+      "stationName": "Mathura Vrindavan",
+      "stationCode": "30005"
+    },
+    {
+      "districtName": "Meerut",
+      "stationName": "Meerut",
+      "stationCode": "42139"
+    },
+    {
+      "districtName": "Mirzapur",
+      "stationName": "MIRZAPUR",
+      "stationCode": "100177"
+    },
+    {
+      "districtName": "Moradabad",
+      "stationName": "Moradabad",
+      "stationCode": "42187"
+    },
+    {
+      "districtName": "Muzaffarnagar",
+      "stationName": "Muzaffarnagar",
+      "stationCode": "42138"
+    },
+    {
+      "districtName": "Pilibhit",
+      "stationName": "PILIBHIT",
+      "stationCode": "100560"
+    },
+    {
+      "districtName": "Pratapgarh",
+      "stationName": "PRATAPGARH",
+      "stationCode": "100187"
+    },
+    {
+      "districtName": "Prayagraj",
+      "stationName": "Prayagraj",
+      "stationCode": "42474"
+    },
+    {
+      "districtName": "Rampur",
+      "stationName": "RAMPUR",
+      "stationCode": "100191"
+    },
+    {
+      "districtName": "Saharanpur",
+      "stationName": "SAHARANPUR",
+      "stationCode": "100561"
+    },
+    {
+      "districtName": "Sambhal",
+      "stationName": "SAMBHAL APMC",
+      "stationCode": "100200"
+    },
+    {
+      "districtName": "Shahjahanpur",
+      "stationName": "Shahjahanpur",
+      "stationCode": "42266"
+    },
+    {
+      "districtName": "Shamli",
+      "stationName": "SHAMLI",
+      "stationCode": "100204"
+    },
+    {
+      "districtName": "Sultanpur",
+      "stationName": "Sultanpur",
+      "stationCode": "42377"
+    },
+    {
+      "districtName": "Unnao",
+      "stationName": "UNNAO APMC",
+      "stationCode": "100212"
+    },
+    {
+      "districtName": "Varanasi",
+      "stationName": "Varanasi",
+      "stationCode": "42479"
+    }
+  ]

@@ -1,8 +1,12 @@
 name: Run Python Script
 
 on:
+  push:
+    branches:
+      - non-existent-branch
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 */10 * *'  
+    - cron: '0 0 */10 * *'  # Runs every 10 days
 
 jobs:
   run:
@@ -42,4 +46,3 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Automated commit from GitHub Actions
-        branch: dev  

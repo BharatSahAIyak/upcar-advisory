@@ -48,12 +48,22 @@ def move_json_to_history():
     os.makedirs(dest_dir, exist_ok=True)
 
     filename="latest.json"
+    filename_hindi="latest_hindi.json"
     with open(filename, 'r') as json_file:
         data = json.load(json_file)
         date = data.get('date')
-        history_filename = f"{date}.json"
+        history_filename = f"{date}_latest.json"
         dest_path = os.path.join(dest_dir, history_filename)
         shutil.move(filename, dest_path)
+        print(f"Moved {filename} to {dest_path}")
+
+    print("here")
+    with open(filename_hindi, 'r') as json_file:
+        data = json.load(json_file)
+        date = data.get('date')
+        history_filename = f"{date}_latest_hindi.json"
+        dest_path = os.path.join(dest_dir, history_filename)
+        shutil.move(filename_hindi, dest_path)
         print(f"Moved {filename} to {dest_path}")
 
 if __name__ == "__main__":

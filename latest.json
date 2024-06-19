@@ -2,87 +2,101 @@
    "names_of_crops": [
       "wheat",
       "maize",
-      "zaid",
       "sugarcane",
       "pulses",
       "vegetables",
       "horticulture",
       "animal husbandry",
       "poultry",
-      "fisheries"
+      "fisheries",
+      "sericulture",
+      "forestry"
    ],
-   "general_advisory": "In the current scenario of weather in the state, farmers have to manage their agriculture for the next two weeks. The following recommendations are made: - In order to conserve the environment and nutrients, farmers should never burn the crop residue after harvesting wheat but should increase the fertility of the soil by decomposing it in the field. To decompose the wheat residue, apply cow dung manure at the rate of 5 tonnes / ha on a priority basis. If cow dung manure is not available, it is 20 kg. /. Additional nitrogen or 2.5 kg. Mix Trichoderma birdii with soil or sand and put it in the field before ploughing. Deep ploughing of the field in summer. Get a soil test done and use fertilizers only as recommended. In rice-planting areas, sow henna or hancha for hati compost as early as possible. Paddy seeds are available at the Agriculture Department godowns in all the districts. For protection against soil-borne diseases like stem rot, root rot, scorch, brown spot, acne, bacterial scorch, yeast, etc., Trichordia baviridi is sold at 4% WP or Trichordaria 2% WP for 2.5 kg. It is per. 65-75 kg. Preventing diseases like sheath blight, false bollworm, etc. can be done by spraying light water mixed with rotten cow dung manure and keeping it in shade for 8-40 days and then adding it to the soil at the last ploughing before sowing. Vuberia baesiana for protection against termites, white girders, nematodes, root rot, cutworms, etc. 2.5 kg of Percentage W, P. kg from 65-75 at the rate of / he. After spraying light water mixed with cow dung manure and keeping it in shade for 8 to 40 days, the land should be treated by mixing it in the fields at the time of last ploughing. Continue to irrigate urad, moong, and sugarcane crops and lychee and mango orchards as needed to retain sufficient moisture. Ensure seeding for long duration varieties of paddy from 20th May.",
+   "general_advisory": "In the current scenario of weather in the state, farmers have to manage their agriculture for the next two weeks. The following recommendations are made: - Farmers who have not yet planted nurseries of longer duration varieties of paddy can still plant nurseries in eastern Uttar Pradesh for transplanting through the Sanda method. In view of the present condition of the monsoon and the high temperature, farmers should sow Kharif crops and plant paddy nurseries only after June 20. If paddy nurseries have not yet been planted, medium-term (20 to 30 days) and short-term (5 to 20 days) nursery of the species at least. Use only treated seeds for sowing Kharif crops. If the seed is not treated, then sow it only after treating it. Place paddy nurseries at different time intervals to avoid vagaries of weather. Farmers can sow short duration varieties of paddy directly. When the temperature of the water in the nursery rises, remove the water from the beds before noon and irrigate again in the evening. To get more production of pigeon pea when weather and temperature are favorable, sow on ridges by making ridges and ridges. Prune the finished urad and moong beans as soon as possible. In view of the priorities of the government, importance should be given to the cultivation of coarse grains such as maize, sorghum, millet, ragi, semolina, cowpea, etc. Cultivation of these crops can also protect them from the vagaries of weather.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "In order to conserve the environment and nutrients, farmers should never burn the crop residue after harvesting wheat but should increase the fertility of the soil by decomposing it in the field.",
-            "To decompose the wheat residue, apply cow dung manure at the rate of 5 tonnes / ha on a priority basis.",
-            "If cow dung manure is not available, it is 20 kg. /. Additional nitrogen or 2.5 kg.",
-            "Mix Trichoderma birdii with soil or sand and put it in the field before ploughing."
+            "Finish sowing late-ripening wheat as soon as possible.",
+            "Sow medium term hybrid varieties viz. Dakan-407, Malviya hybrid wheat-2, Pro-303 (3464), KH-945, KH-50, MMH-69, Bio-9637, Bio-9682, LG- 32-8, COH (M) 8 and complex varieties Navjot, Pusa Composite-2, Shweta white, Naveen.",
+            "If the seed is not treated, then before sowing the seed, first. 2. 5 gm per kg seed. Therum or 2 g of carbondazim should be treated with 50 wp and subsequently the seed should be treated with imidacloprid 2 g. Seeds should be treated with / kg.",
+            "Chlorantraniliprole 8. 5% SC. 0. 4 was found for effective control in the case of 0 to 20% damage in an outbreak of fall armyworm in macaques. 0. 3 ml of water or spinosad per litre. per litre of water or thiamethoxam. Spraying should be done by making a solution of 2.6% + lambdacyhalothin 9.5% .5 ml per liter of water."
          ]
       },
       "maize": {
          "advisory": [
-            "To get good yield, arrange and sow the seeds of late maturing hybrid varieties of maize like Ganga-7, Sartaj, HQ, PM-5, HQ, PM-8, Pro-36 (4640), Bio-968, Y-402, PSC-740, NMH-920, Seedtech-740, NMH-713 and complex variety Prabhat etc.",
-            "If the seed is not treated, before sowing, the first 4 kg of seed should be treated with 2. 5 gm. Therum or 2 g of carbondazim should be treated with 50 wp and subsequently the seed should be treated with imidacloprid 2 g. Seeds should be treated with / kg."
-         ]
-      },
-      "zaid crops": {
-         "advisory": [
-            "The mung bean crop is witnessing the invasion of black-winged white-colored moths. Black spots can be seen on each segment of its body.",
-            "For crop protection, make a solution of 5% neem oil and spray it on the crop 2 times in a week or 2 times in the evening at an interval of 2-45 days by mixing 5% gram quantity of Immactin Bezoate 5% SG in 2 litres of water.",
-            "As soon as the yellow mosaic disease appears in the urad / moong crop, the affected plants should be carefully uprooted and destroyed (burnt / buried)."
+            "Finish sowing late-ripening maize as soon as possible.",
+            "Sow medium term hybrid varieties viz. Dakan-407, Malviya hybrid maize-2, Pro-303 (3464), KH-945, KH-50, MMH-69, Bio-9637, Bio-9682, LG- 32-8, COH (M) 8 and complex varieties Navjot, Pusa Composite-2, Shweta white, Naveen.",
+            "If the seed is not treated, then before sowing the seed, first. 2. 5 gm per kg seed. Therum or 2 g of carbondazim should be treated with 50 wp and subsequently the seed should be treated with imidacloprid 2 g. Seeds should be treated with / kg.",
+            "Chlorantraniliprole 8. 5% SC. 0. 4 was found for effective control in the case of 0 to 20% damage in an outbreak of fall armyworm in macaques. 0. 3 ml of water or spinosad per litre. per litre of water or thiamethoxam. Spraying should be done by making a solution of 2.6% + lambdacyhalothin 9.5% .5 ml per liter of water."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "The farmer must irrigate the sugarcane at 72-75 day intervals.",
-            "When the oats come out after irrigation, first topdress them with nitrogen and knead them.",
-            "For nitrogen topdressing, apply at the rate of 425 kg urea / ha near the sugarcane rows in case of sufficient moisture."
+            "Mite infestation is being seen in sugarcane for its control. One kilogram of sulphur and 30 grams of lime are dissolved in 625 litres of water. Sprinkle on the leaves at a rate of.",
+            "Copper oxychloride of 0. 2% or carbondazim of 0.% for the control of pokka boing disease. Make a solution and sprinkle on the leaves.",
+            "Chloroentronylpyrrol 8. 375 ml of S.C. is used for protection against the third generation of rodent pests which are more harmful to the sugarcane crop. Dissolve the liquid in 000 litres of water. Ditching near the sugarcane lines at the rate of.",
+            "Autumn sugarcane has reached its ripening stage, so soil must be applied to the roots of the sugarcane to prevent the sugarcane from falling and to prevent unwanted stones from coming out."
          ]
       },
       "pulses": {
          "advisory": [
-            "Vaccinate large animals with the HS vaccine for the prevention of whooping cough and the BQ vaccine for the prevention of whooping cough. This facility is available free of cost at all veterinary clinics.",
-            "The swine fever vaccine is available free of charge at all veterinary clinics.",
-            "To protect the animals from the sun, tie them in a shady place in the afternoon and let them graze only in the morning and evening."
+            "Prune the finished urad and moong beans as soon as possible."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Azadi Shactin (Neem Oil) 0. 15% EC 2.50 L on the outbreak of fruit fly in leguminous vegetables. The quantity was taken from 500 to 600. Dissolve in water and spray at intervals of 10 to 45 days as needed.",
-            "The Cu-Lure pheromone trap is 8 to 0 traps per to protect leguminous crops from fruit flies. Apply at the rate of.",
-            "Chillies are more prone to foliage loss and mosaic virus disease."
+            "Pumpkin crops if imidacloprid 30. 5% SC 1. 0 mm for control of green blight and whitefly pest. Ltd. Flubendimide 39.35 0 of SC for chemical and stem and fruit borer pest control. Spray the amount per litre of water by making a solution and the QLR pheromone trap is 8 to 10 traps per litre to protect the fruit fly. Apply at the rate of.",
+            "Chillies are more prone to foliage loss and mosaic virus disease. The disease is spread by the vector insect whitefly or hopper bug. To prevent its spread, spray the drug imidachloropid 30. 5% SC4. 0 per litre of water at intervals of 40 to 42 days as needed and uproot and burn the infected plants or bury them in the soil.",
+            "The chemical chlorantraniliprole was used to protect the brinjal crop from stem and fruiting pests. Got 0. Dissolve the amount in a liter of water and spray at 40-5 day intervals."
          ]
       },
       "horticulture": {
          "advisory": [
-            "Keep the mango and litchi gardens moist as needed.",
-            "For the protection of fungal / fungal pests in mango, 4 to 2 ml of insecticide named Igridachloropid 30. 5% SC is used. Spray the foil by making a solution in liters of water.",
-            "For the control of internal rotting disease of mango make a solution of 6 to 8 grams amount of borax element in water and spray the first drop."
+            "In mangoes, keep the gardens moist by irrigating them at regular intervals.",
+            "For the plantation of fruit orchards, to fill the bulbs in the month of May, mix rotten manure of cow dung in the top half of the soil and fill it up to 5 to 20 cm from the surface of the ground.",
+            "For the control of fruit flies, the sexual odour fluid should be changed and the collected flies should be removed and thrown away.",
+            "To increase the storage capacity of fruits, three sprays of dihydrated calcium chloride (227 gm) at an interval of 40 days for pre-harvesting Chausa variety and other late ripening varieties. / 70L. ) should be done. Fruits should be plucked with 8-40 mm stalks in the morning or evening on maturity. Breaking the fruits in the morning and afternoon can extend the storage period by protecting them from field heat (afternoon heat)."
          ]
       },
       "animal husbandry": {
          "advisory": [
-            "Vaccinate large animals with the HS vaccine for the prevention of whooping cough and the BQ vaccine for the prevention of whooping cough. This facility is available free of cost at all veterinary clinics.",
-            "The swine fever vaccine is available free of charge at all veterinary clinics.",
-            "To protect the animals from the sun, tie them in a shady place in the afternoon and let them graze only in the morning and evening."
+            "Free vaccination of Brucella and FMD and HS is going on in animals, so get the animals vaccinated. Give the animal plenty of clean water to drink. Before milking, bathe the animals in the morning and in the evening, so that milk production in the animals is not adversely affected. To protect the animals from heatstroke, jute cuttings or sacks should be tied around the shed and water should be sprayed continuously, so that the animals can be protected from heatstroke.",
+            "The time for sowing Kharif fodder crops in Verbraman is near. All the cattle rearers / farmers should start preparing the farm and arrange seeds of the improved variety and sow them on time.",
+            "Chickens should keep their enclosure temperature at 8.26 ° C in the summer, which should be reduced to half an hour with a sprinkler on the roof of their shed.",
+            "The animals should be tied in a shady place in the afternoon and grazed only in the morning and evening to avoid sunburn."
          ]
       },
       "poultry": {
          "advisory": [
-            "Vaccinate large animals with the HS vaccine for the prevention of whooping cough and the BQ vaccine for the prevention of whooping cough. This facility is available free of cost at all veterinary clinics.",
-            "The swine fever vaccine is available free of charge at all veterinary clinics.",
-            "To protect the animals from the sun, tie them in a shady place in the afternoon and let them graze only in the morning and evening."
+            "Chickens should keep their enclosure temperature at 8.26 ° C in the summer, which should be reduced to half an hour with a sprinkler on the roof of their shed.",
+            "The animals should be tied in a shady place in the afternoon and grazed only in the morning and evening to avoid sunburn.",
+            "Avoid bathing and grazing animals in the afternoon."
          ]
       },
       "fisheries": {
          "advisory": [
-            "The water level of the ponds should be maintained from 5 to 5. 5 feet.",
-            "For fish growth, supplements should be used at 4 to 2 percent of the weight of the fish.",
-            "Breeders fear in view of breeding of common carp fishes) should be isolated and their special nutrition should be ensured."
+            "The best time to build a pond is when farmers who want to build a new pond or improve their pond finish construction by June 20 and prepare for the upcoming fishing season. For this, contact the Fisheries Department.",
+            "Fish seed producers should feed their brood fish supplements at a rate of two percent of body weight daily, as well as a diet rich in vitamin E.",
+            "Maturity has come in Katla, Rohu and Nain varieties. Keep the water level of the pond at 5 to 6 feet. Fish seed producers who have not yet prepared nurseries should prepare nurseries soon. The time has come for catalysed breeding of Katla, Rohu, Nain species. Hatchery owners should pay special attention to the forecast of the arrival of the monsoon. Catalyze breeding of fish species like Katla, Rohu, Nain from 20th June. Fish seeds of silver carp and grass carp fish species are currently available with the UP Fisheries Development Corporation and in the private sector, so fish farmers should contact the district office to collect fish seeds.",
+            "Thai mugur fish farming is prohibited. Don't follow it."
+         ]
+      },
+      "sericulture": {
+         "advisory": [
+            "Keep the pupa cool to keep it alive in the wells preserved in tussar granaries.",
+            "Regularly irrigate mulberry plants and mulberry / arjuna nurseries in the irrigated area.",
+            "Try to preserve the mulch by mulching around mulberry / arjuna plants in an uncontaminated area. Sow acacia seeds in a trench around the farms to create an acacia hedge to protect the silk farms.",
+            "Start pruning by trimming in mulberry silk farms.",
+            "Soil work should be completed to plant trees in the new area."
+         ]
+      },
+      "forestry": {
+         "advisory": [
+            "Complete the digging of pits for plantation as soon as possible. Mix 0 to 5 kg of rotten cow dung manure with 2 to 3 cm of soil. Fill the potholes up to the height of m. Practice bamboo planting by the Bansuri method.",
+            "Before planting, remove the plants from the nursery and place them in a resting period for 10 to 20 days. Keep the plants in a shady place and do light irrigation by the fountain method. Remove the plants from the nursery along with the seedlings.",
+            "Get the plants you need for transplantation."
          ]
       }
    },
-   "data": "09-05-2024"
+   "date": "13-06-2024"
 }

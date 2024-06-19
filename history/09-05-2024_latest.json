@@ -1,0 +1,88 @@
+{
+   "names_of_crops": [
+      "wheat",
+      "maize",
+      "zaid",
+      "sugarcane",
+      "pulses",
+      "vegetables",
+      "horticulture",
+      "animal husbandry",
+      "poultry",
+      "fisheries"
+   ],
+   "general_advisory": "In the current scenario of weather in the state, farmers have to manage their agriculture for the next two weeks. The following recommendations are made: - In order to conserve the environment and nutrients, farmers should never burn the crop residue after harvesting wheat but should increase the fertility of the soil by decomposing it in the field. To decompose the wheat residue, apply cow dung manure at the rate of 5 tonnes / ha on a priority basis. If cow dung manure is not available, it is 20 kg. /. Additional nitrogen or 2.5 kg. Mix Trichoderma birdii with soil or sand and put it in the field before ploughing. Deep ploughing of the field in summer. Get a soil test done and use fertilizers only as recommended. In rice-planting areas, sow henna or hancha for hati compost as early as possible. Paddy seeds are available at the Agriculture Department godowns in all the districts. For protection against soil-borne diseases like stem rot, root rot, scorch, brown spot, acne, bacterial scorch, yeast, etc., Trichordia baviridi is sold at 4% WP or Trichordaria 2% WP for 2.5 kg. It is per. 65-75 kg. Preventing diseases like sheath blight, false bollworm, etc. can be done by spraying light water mixed with rotten cow dung manure and keeping it in shade for 8-40 days and then adding it to the soil at the last ploughing before sowing. Vuberia baesiana for protection against termites, white girders, nematodes, root rot, cutworms, etc. 2.5 kg of Percentage W, P. kg from 65-75 at the rate of / he. After spraying light water mixed with cow dung manure and keeping it in shade for 8 to 40 days, the land should be treated by mixing it in the fields at the time of last ploughing. Continue to irrigate urad, moong, and sugarcane crops and lychee and mango orchards as needed to retain sufficient moisture. Ensure seeding for long duration varieties of paddy from 20th May.",
+   "crops_data": {
+      "wheat": {
+         "advisory": [
+            "In order to conserve the environment and nutrients, farmers should never burn the crop residue after harvesting wheat but should increase the fertility of the soil by decomposing it in the field.",
+            "To decompose the wheat residue, apply cow dung manure at the rate of 5 tonnes / ha on a priority basis.",
+            "If cow dung manure is not available, it is 20 kg. /. Additional nitrogen or 2.5 kg.",
+            "Mix Trichoderma birdii with soil or sand and put it in the field before ploughing."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "To get good yield, arrange and sow the seeds of late maturing hybrid varieties of maize like Ganga-7, Sartaj, HQ, PM-5, HQ, PM-8, Pro-36 (4640), Bio-968, Y-402, PSC-740, NMH-920, Seedtech-740, NMH-713 and complex variety Prabhat etc.",
+            "If the seed is not treated, before sowing, the first 4 kg of seed should be treated with 2. 5 gm. Therum or 2 g of carbondazim should be treated with 50 wp and subsequently the seed should be treated with imidacloprid 2 g. Seeds should be treated with / kg."
+         ]
+      },
+      "zaid crops": {
+         "advisory": [
+            "The mung bean crop is witnessing the invasion of black-winged white-colored moths. Black spots can be seen on each segment of its body.",
+            "For crop protection, make a solution of 5% neem oil and spray it on the crop 2 times in a week or 2 times in the evening at an interval of 2-45 days by mixing 5% gram quantity of Immactin Bezoate 5% SG in 2 litres of water.",
+            "As soon as the yellow mosaic disease appears in the urad / moong crop, the affected plants should be carefully uprooted and destroyed (burnt / buried)."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "The farmer must irrigate the sugarcane at 72-75 day intervals.",
+            "When the oats come out after irrigation, first topdress them with nitrogen and knead them.",
+            "For nitrogen topdressing, apply at the rate of 425 kg urea / ha near the sugarcane rows in case of sufficient moisture."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Vaccinate large animals with the HS vaccine for the prevention of whooping cough and the BQ vaccine for the prevention of whooping cough. This facility is available free of cost at all veterinary clinics.",
+            "The swine fever vaccine is available free of charge at all veterinary clinics.",
+            "To protect the animals from the sun, tie them in a shady place in the afternoon and let them graze only in the morning and evening."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Azadi Shactin (Neem Oil) 0. 15% EC 2.50 L on the outbreak of fruit fly in leguminous vegetables. The quantity was taken from 500 to 600. Dissolve in water and spray at intervals of 10 to 45 days as needed.",
+            "The Cu-Lure pheromone trap is 8 to 0 traps per to protect leguminous crops from fruit flies. Apply at the rate of.",
+            "Chillies are more prone to foliage loss and mosaic virus disease."
+         ]
+      },
+      "horticulture": {
+         "advisory": [
+            "Keep the mango and litchi gardens moist as needed.",
+            "For the protection of fungal / fungal pests in mango, 4 to 2 ml of insecticide named Igridachloropid 30. 5% SC is used. Spray the foil by making a solution in liters of water.",
+            "For the control of internal rotting disease of mango make a solution of 6 to 8 grams amount of borax element in water and spray the first drop."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Vaccinate large animals with the HS vaccine for the prevention of whooping cough and the BQ vaccine for the prevention of whooping cough. This facility is available free of cost at all veterinary clinics.",
+            "The swine fever vaccine is available free of charge at all veterinary clinics.",
+            "To protect the animals from the sun, tie them in a shady place in the afternoon and let them graze only in the morning and evening."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate large animals with the HS vaccine for the prevention of whooping cough and the BQ vaccine for the prevention of whooping cough. This facility is available free of cost at all veterinary clinics.",
+            "The swine fever vaccine is available free of charge at all veterinary clinics.",
+            "To protect the animals from the sun, tie them in a shady place in the afternoon and let them graze only in the morning and evening."
+         ]
+      },
+      "fisheries": {
+         "advisory": [
+            "The water level of the ponds should be maintained from 5 to 5. 5 feet.",
+            "For fish growth, supplements should be used at 4 to 2 percent of the weight of the fish.",
+            "Breeders fear in view of breeding of common carp fishes) should be isolated and their special nutrition should be ensured."
+         ]
+      }
+   },
+   "date": "09-05-2024"
+}

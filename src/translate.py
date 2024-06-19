@@ -10,6 +10,23 @@ from dotenv import load_dotenv
 load_dotenv()
 bhashini_api_key = os.environ.get("BHASHINI_API_KEY")
 
+async def translate_json(response):
+    if isinstance(response, dict):
+        translated_dict = {}
+        for k, v in response.items():
+            translated_dict[k] = await translate_json(v)
+        return translated_dict
+    elif isinstance(response, list):
+        translated_list = []
+        for i in response:
+            translated_list.append(await translate_json(i))
+        return translated_list
+    elif isinstance(response, str):
+        translated_text = await translate_text_bhashini(response, source='en', target='hi')
+        return translated_text[0] if translated_text else response  
+    else:
+        return response
+    
 async def translate_and_report_progress(i, line, total_lines, progress_lock):
     translated_line = await translate_text_bhashini(line)
     async with progress_lock:

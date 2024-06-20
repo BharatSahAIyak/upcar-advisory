@@ -1,8 +1,10 @@
 {
    "names_of_crops": [
-      "wheat",
-      "maize",
-      "sugarcane",
+      "wheat cultivation",
+      "paddy cultivation",
+      "maize cultivation",
+      "zaid crops",
+      "sugarcane cultivation",
       "pulses",
       "vegetables",
       "horticulture",
@@ -14,40 +16,58 @@
    ],
    "general_advisory": "In the current scenario of weather in the state, farmers have to manage their agriculture for the next two weeks. The following recommendations are made: - Farmers who have not yet planted nurseries of longer duration varieties of paddy can still plant nurseries in eastern Uttar Pradesh for transplanting through the Sanda method. In view of the present condition of the monsoon and the high temperature, farmers should sow Kharif crops and plant paddy nurseries only after June 20. If paddy nurseries have not yet been planted, medium-term (20 to 30 days) and short-term (5 to 20 days) nursery of the species at least. Use only treated seeds for sowing Kharif crops. If the seed is not treated, then sow it only after treating it. Place paddy nurseries at different time intervals to avoid vagaries of weather. Farmers can sow short duration varieties of paddy directly. When the temperature of the water in the nursery rises, remove the water from the beds before noon and irrigate again in the evening. To get more production of pigeon pea when weather and temperature are favorable, sow on ridges by making ridges and ridges. Prune the finished urad and moong beans as soon as possible. In view of the priorities of the government, importance should be given to the cultivation of coarse grains such as maize, sorghum, millet, ragi, semolina, cowpea, etc. Cultivation of these crops can also protect them from the vagaries of weather.",
    "crops_data": {
-      "wheat": {
+      "wheat cultivation": {
          "advisory": [
             "Finish sowing late-ripening wheat as soon as possible.",
-            "Sow medium term hybrid varieties viz. Dakan-407, Malviya hybrid wheat-2, Pro-303 (3464), KH-945, KH-50, MMH-69, Bio-9637, Bio-9682, LG- 32-8, COH (M) 8 and complex varieties Navjot, Pusa Composite-2, Shweta white, Naveen.",
-            "If the seed is not treated, then before sowing the seed, first. 2. 5 gm per kg seed. Therum or 2 g of carbondazim should be treated with 50 wp and subsequently the seed should be treated with imidacloprid 2 g. Seeds should be treated with / kg.",
-            "Chlorantraniliprole 8. 5% SC. 0. 4 was found for effective control in the case of 0 to 20% damage in an outbreak of fall armyworm in macaques. 0. 3 ml of water or spinosad per litre. per litre of water or thiamethoxam. Spraying should be done by making a solution of 2.6% + lambdacyhalothin 9.5% .5 ml per liter of water."
+            "Sow medium term hybrid varieties viz. Dakan-407, Malviya hybrid wheat-2, Pro-303 (3464), KH-945, KH-50, MMH-69, Bio-9637, Bio-9682, LG-32-8, COH (M) 8 and complex varieties Navjot, Pusa Composite-2, Shweta white, Naveen.",
+            "If the seed is not treated, then before sowing the seed, first. 2.5 gm per kg seed. Therum or 2 g of carbondazim should be treated with 50 wp and subsequently the seed should be treated with imidacloprid 2 g. Seeds should be treated with / kg.",
+            "Chlorantraniliprole 8.5% SC. 0.4 was found for effective control in the case of 0 to 20% damage in an outbreak of fall armyworm in macaques. 0.3 ml of water or spinosad per litre. per litre of water or thiamethoxam. Spraying should be done by making a solution of 2.6% + lambdacyhalothin 9.5% .5 ml per liter of water."
          ]
       },
-      "maize": {
+      "paddy cultivation": {
+         "advisory": [
+            "* * * * Day seedlings 2 - 3 plants 3 - 4 cm per hill. to the depth of.",
+            "Short-term improved varieties of paddy CO-5, Narendra-80, Manhar, IR-50, Narendra-97, Pant paddy-72, Barani Deep, Dried Samrat, Narendra Lalmati, Malviya paddy-2, Malviya paddy-97, Shiats paddy-5, Narendra-, Narendra-2 and medium-term varieties Narendra-359, Pant paddy-40, Malviya paddy-4, NDR-99304-4, Sita, Sarju-52, Pant paddy-4, Shiats paddy-2, Shiats paddy-4, IR-64, Narendra paddy-2065, Narendra paddy-2065",
+            "Include nursery of aromatic paddy varieties like Narendra Lalmati, Pusa-637, HU, R-309, Kasturi, Pusa Basmati-4509.",
+            "Include nurseries of medium-duration paddy varieties CSR-40, CSR-43, CSR-3, Narendra Uchar Paddy-2009, CSR-60 for fallow areas."
+         ]
+      },
+      "maize cultivation": {
          "advisory": [
             "Finish sowing late-ripening maize as soon as possible.",
-            "Sow medium term hybrid varieties viz. Dakan-407, Malviya hybrid maize-2, Pro-303 (3464), KH-945, KH-50, MMH-69, Bio-9637, Bio-9682, LG- 32-8, COH (M) 8 and complex varieties Navjot, Pusa Composite-2, Shweta white, Naveen.",
-            "If the seed is not treated, then before sowing the seed, first. 2. 5 gm per kg seed. Therum or 2 g of carbondazim should be treated with 50 wp and subsequently the seed should be treated with imidacloprid 2 g. Seeds should be treated with / kg.",
-            "Chlorantraniliprole 8. 5% SC. 0. 4 was found for effective control in the case of 0 to 20% damage in an outbreak of fall armyworm in macaques. 0. 3 ml of water or spinosad per litre. per litre of water or thiamethoxam. Spraying should be done by making a solution of 2.6% + lambdacyhalothin 9.5% .5 ml per liter of water."
+            "Sow medium term hybrid varieties viz. Dakan-407, Malviya hybrid maize-2, Pro-303 (3464), KH-945, KH-50, MMH-69, Bio-9637, Bio-9682, LG-32-8, COH (M) 8 and complex varieties Navjot, Pusa Composite-2, Shweta white, Naveen.",
+            "If the seed is not treated, then before sowing the seed, first. 2.5 gm per kg seed. Therum or 2 g of carbondazim should be treated with 50 wp and subsequently the seed should be treated with imidacloprid 2 g. Seeds should be treated with / kg.",
+            "Chlorantraniliprole 8.5% SC. 0.4 was found for effective control in the case of 0 to 20% damage in an outbreak of fall armyworm in macaques. 0.3 ml of water or spinosad per litre. per litre of water or thiamethoxam. Spraying should be done by making a solution of 2.6% + lambdacyhalothin 9.5% .5 ml per liter of water."
          ]
       },
-      "sugarcane": {
+      "zaid crops": {
+         "advisory": [
+            "The earliest known variety of zaid crops for western U.P. in irrigated areas is Paras (P. A-29), Pusa Arhar-6 for Central Uttar Pradesh, UPAS-20, TA-24 and Pusa-992, PA-6 for the whole of Uttar Pradesh.",
+            "One kg if the seed is not treated before sowing. 2 g of seeds. Therum, one gram of carbondazim or 4 grams of trichroma +. Treat with gram carboxin. Before sowing, treat each seed with a specific rhizobium culture of zaid crops."
+         ]
+      },
+      "sugarcane cultivation": {
          "advisory": [
             "Mite infestation is being seen in sugarcane for its control. One kilogram of sulphur and 30 grams of lime are dissolved in 625 litres of water. Sprinkle on the leaves at a rate of.",
-            "Copper oxychloride of 0. 2% or carbondazim of 0.% for the control of pokka boing disease. Make a solution and sprinkle on the leaves.",
-            "Chloroentronylpyrrol 8. 375 ml of S.C. is used for protection against the third generation of rodent pests which are more harmful to the sugarcane crop. Dissolve the liquid in 000 litres of water. Ditching near the sugarcane lines at the rate of.",
-            "Autumn sugarcane has reached its ripening stage, so soil must be applied to the roots of the sugarcane to prevent the sugarcane from falling and to prevent unwanted stones from coming out."
+            "Copper oxychloride of 0.2% or carbondazim of 0.% for the control of pokka boing disease.",
+            "Make a solution and sprinkle on the leaves.",
+            "Chloroentronylpyrrol 8.375 ml of S.C. is used for protection against the third generation of rodent pests which are more harmful to the sugarcane crop. Dissolve the solution in 000 litres of water. Ditching near the sugarcane lines at the rate of.",
+            "Autumn sugarcane has reached its ripening stage, so soil must be applied to the roots of the sugarcane to prevent the sugarcane from falling and to prevent unwanted stones from coming out.",
+            "In the empty field in which autumn sugarcane is to be sown, sow the structure to increase the organic matter and return it to the field in 45 to 50 days.",
+            "In view of the high temperature, farmers should irrigate their sugarcane at 45-20 day intervals."
          ]
       },
       "pulses": {
          "advisory": [
-            "Prune the finished urad and moong beans as soon as possible."
+            "The time for sowing Kharif fodder crops in Verbraman is near. All the cattle rearers / farmers should start preparing the farm and arrange seeds of the improved variety and sow them on time."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Pumpkin crops if imidacloprid 30. 5% SC 1. 0 mm for control of green blight and whitefly pest. Ltd. Flubendimide 39.35 0 of SC for chemical and stem and fruit borer pest control. Spray the amount per litre of water by making a solution and the QLR pheromone trap is 8 to 10 traps per litre to protect the fruit fly. Apply at the rate of.",
-            "Chillies are more prone to foliage loss and mosaic virus disease. The disease is spread by the vector insect whitefly or hopper bug. To prevent its spread, spray the drug imidachloropid 30. 5% SC4. 0 per litre of water at intervals of 40 to 42 days as needed and uproot and burn the infected plants or bury them in the soil.",
-            "The chemical chlorantraniliprole was used to protect the brinjal crop from stem and fruiting pests. Got 0. Dissolve the amount in a liter of water and spray at 40-5 day intervals."
+            "Pumpkin crops if imidacloprid 30.5% SC 1.0 mm for control of green blight and whitefly pest. Ltd. Flubendimide 39.35 0 of SC for chemical and stem and fruit borer pest control. Spray the amount per litre of water as a solution and the QLOR pheromone trap is 8 to 10 traps per litre to protect the fruit fly. Apply at the rate of.",
+            "Chillies are more prone to foliage loss and mosaic virus disease. The disease is spread by the vector insect whitefly or hopper bug. To prevent its spread, spray the drug imidachloropid 30.5% SC4.0 per litre of water at intervals of 40 to 42 days as needed and uproot and burn the infected plants or bury them in the soil.",
+            "The chemical chlorantraniliprole was used to protect the brinjal crop from stem and fruiting pests. Got 0. Dissolve the amount in a liter of water and spray at 40-5 day intervals.",
+            "For the prevention of whitefly in okra crop, the infected plants should be uprooted and burnt or buried in the soil and the blue sticky trap of the disease-carrying insect should be 8 to 10 traps per acre. Put it on Its chemical treatment consists of imidacloprid 30.5% SC. 0 mg. Spray the chemical per litre of water by making a solution."
          ]
       },
       "horticulture": {
@@ -55,22 +75,24 @@
             "In mangoes, keep the gardens moist by irrigating them at regular intervals.",
             "For the plantation of fruit orchards, to fill the bulbs in the month of May, mix rotten manure of cow dung in the top half of the soil and fill it up to 5 to 20 cm from the surface of the ground.",
             "For the control of fruit flies, the sexual odour fluid should be changed and the collected flies should be removed and thrown away.",
-            "To increase the storage capacity of fruits, three sprays of dihydrated calcium chloride (227 gm) at an interval of 40 days for pre-harvesting Chausa variety and other late ripening varieties. / 70L. ) should be done. Fruits should be plucked with 8-40 mm stalks in the morning or evening on maturity. Breaking the fruits in the morning and afternoon can extend the storage period by protecting them from field heat (afternoon heat)."
+            "To increase the storage capacity of fruits, three sprays of dihydrated calcium chloride (227 gm) at an interval of 40 days for pre-harvesting Chausa variety and other late ripening varieties. / 70L. ) should be done. Fruits should be plucked with 8-40 mm stalks in the morning or evening on maturity. Breaking the fruits in the morning and afternoon can extend the storage period by protecting them from field heat (afternoon heat).",
+            "Mangoes are cooked uniformly using 750 ppm etheral (PP). 8 ml / l) of lukewarm water (52+2 * cm3). ) should be soaked in the solution for 5 minutes and then stored after drying in the evening. Adding (0.5 g / l) corbendazim or thiophenate methyl to it also destroys other fungi and the mango ripens well."
          ]
       },
       "animal husbandry": {
          "advisory": [
             "Free vaccination of Brucella and FMD and HS is going on in animals, so get the animals vaccinated. Give the animal plenty of clean water to drink. Before milking, bathe the animals in the morning and in the evening, so that milk production in the animals is not adversely affected. To protect the animals from heatstroke, jute cuttings or sacks should be tied around the shed and water should be sprayed continuously, so that the animals can be protected from heatstroke.",
             "The time for sowing Kharif fodder crops in Verbraman is near. All the cattle rearers / farmers should start preparing the farm and arrange seeds of the improved variety and sow them on time.",
-            "Chickens should keep their enclosure temperature at 8.26 ° C in the summer, which should be reduced to half an hour with a sprinkler on the roof of their shed.",
-            "The animals should be tied in a shady place in the afternoon and grazed only in the morning and evening to avoid sunburn."
+            "Chickens should keep their enclosure temperature at 8.26 ° C in the summer, to reduce this by placing sacks on the roof of their shed and cooling them with a sprinkler every half to an hour.",
+            "The animals should be tied in a shady place in the afternoon and grazed only in the morning and evening to avoid sunburn.",
+            "Avoid bathing and grazing animals in the afternoon.",
+            "Make sure to feed the animals green fodder, do not feed the animals withered green fodder (especially sorghum) as the animal may get sick from the excess of HCN (poisonous substance) in it.",
+            "Due to the high temperature in the current season, animals may have problems with dehydration. To prevent this, feed the animal a mineral-salt mixture."
          ]
       },
       "poultry": {
          "advisory": [
-            "Chickens should keep their enclosure temperature at 8.26 ° C in the summer, which should be reduced to half an hour with a sprinkler on the roof of their shed.",
-            "The animals should be tied in a shady place in the afternoon and grazed only in the morning and evening to avoid sunburn.",
-            "Avoid bathing and grazing animals in the afternoon."
+            "The time for sowing Kharif fodder crops in Verbraman is near. All the cattle rearers / farmers should start preparing the farm and arrange seeds of the improved variety and sow them on time."
          ]
       },
       "fisheries": {

@@ -1,22 +1,20 @@
 {
    "names_of_crops": [
-      "wheat cultivation",
-      "paddy cultivation",
-      "maize cultivation",
+      "wheat",
+      "paddy",
+      "maize",
       "zaid crops",
-      "sugarcane cultivation",
-      "pulses",
+      "sugarcane",
       "vegetables",
       "horticulture",
       "animal husbandry",
-      "poultry",
       "fisheries",
       "sericulture",
       "forestry"
    ],
    "general_advisory": "In the current scenario of weather in the state, farmers have to manage their agriculture for the next two weeks. The following recommendations are made: - Farmers who have not yet planted nurseries of longer duration varieties of paddy can still plant nurseries in eastern Uttar Pradesh for transplanting through the Sanda method. In view of the present condition of the monsoon and the high temperature, farmers should sow Kharif crops and plant paddy nurseries only after June 20. If paddy nurseries have not yet been planted, medium-term (20 to 30 days) and short-term (5 to 20 days) nursery of the species at least. Use only treated seeds for sowing Kharif crops. If the seed is not treated, then sow it only after treating it. Place paddy nurseries at different time intervals to avoid vagaries of weather. Farmers can sow short duration varieties of paddy directly. When the temperature of the water in the nursery rises, remove the water from the beds before noon and irrigate again in the evening. To get more production of pigeon pea when weather and temperature are favorable, sow on ridges by making ridges and ridges. Prune the finished urad and moong beans as soon as possible. In view of the priorities of the government, importance should be given to the cultivation of coarse grains such as maize, sorghum, millet, ragi, semolina, cowpea, etc. Cultivation of these crops can also protect them from the vagaries of weather.",
    "crops_data": {
-      "wheat cultivation": {
+      "wheat": {
          "advisory": [
             "Finish sowing late-ripening wheat as soon as possible.",
             "Sow medium term hybrid varieties viz. Dakan-407, Malviya hybrid wheat-2, Pro-303 (3464), KH-945, KH-50, MMH-69, Bio-9637, Bio-9682, LG-32-8, COH (M) 8 and complex varieties Navjot, Pusa Composite-2, Shweta white, Naveen.",
@@ -24,7 +22,7 @@
             "Chlorantraniliprole 8.5% SC. 0.4 was found for effective control in the case of 0 to 20% damage in an outbreak of fall armyworm in macaques. 0.3 ml of water or spinosad per litre. per litre of water or thiamethoxam. Spraying should be done by making a solution of 2.6% + lambdacyhalothin 9.5% .5 ml per liter of water."
          ]
       },
-      "paddy cultivation": {
+      "paddy": {
          "advisory": [
             "* * * * Day seedlings 2 - 3 plants 3 - 4 cm per hill. to the depth of.",
             "Short-term improved varieties of paddy CO-5, Narendra-80, Manhar, IR-50, Narendra-97, Pant paddy-72, Barani Deep, Dried Samrat, Narendra Lalmati, Malviya paddy-2, Malviya paddy-97, Shiats paddy-5, Narendra-, Narendra-2 and medium-term varieties Narendra-359, Pant paddy-40, Malviya paddy-4, NDR-99304-4, Sita, Sarju-52, Pant paddy-4, Shiats paddy-2, Shiats paddy-4, IR-64, Narendra paddy-2065, Narendra paddy-2065",
@@ -32,7 +30,7 @@
             "Include nurseries of medium-duration paddy varieties CSR-40, CSR-43, CSR-3, Narendra Uchar Paddy-2009, CSR-60 for fallow areas."
          ]
       },
-      "maize cultivation": {
+      "maize": {
          "advisory": [
             "Finish sowing late-ripening maize as soon as possible.",
             "Sow medium term hybrid varieties viz. Dakan-407, Malviya hybrid maize-2, Pro-303 (3464), KH-945, KH-50, MMH-69, Bio-9637, Bio-9682, LG-32-8, COH (M) 8 and complex varieties Navjot, Pusa Composite-2, Shweta white, Naveen.",
@@ -46,7 +44,7 @@
             "One kg if the seed is not treated before sowing. 2 g of seeds. Therum, one gram of carbondazim or 4 grams of trichroma +. Treat with gram carboxin. Before sowing, treat each seed with a specific rhizobium culture of zaid crops."
          ]
       },
-      "sugarcane cultivation": {
+      "sugarcane": {
          "advisory": [
             "Mite infestation is being seen in sugarcane for its control. One kilogram of sulphur and 30 grams of lime are dissolved in 625 litres of water. Sprinkle on the leaves at a rate of.",
             "Copper oxychloride of 0.2% or carbondazim of 0.% for the control of pokka boing disease.",
@@ -55,11 +53,6 @@
             "Autumn sugarcane has reached its ripening stage, so soil must be applied to the roots of the sugarcane to prevent the sugarcane from falling and to prevent unwanted stones from coming out.",
             "In the empty field in which autumn sugarcane is to be sown, sow the structure to increase the organic matter and return it to the field in 45 to 50 days.",
             "In view of the high temperature, farmers should irrigate their sugarcane at 45-20 day intervals."
-         ]
-      },
-      "pulses": {
-         "advisory": [
-            "The time for sowing Kharif fodder crops in Verbraman is near. All the cattle rearers / farmers should start preparing the farm and arrange seeds of the improved variety and sow them on time."
          ]
       },
       "vegetables": {
@@ -88,11 +81,6 @@
             "Avoid bathing and grazing animals in the afternoon.",
             "Make sure to feed the animals green fodder, do not feed the animals withered green fodder (especially sorghum) as the animal may get sick from the excess of HCN (poisonous substance) in it.",
             "Due to the high temperature in the current season, animals may have problems with dehydration. To prevent this, feed the animal a mineral-salt mixture."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "The time for sowing Kharif fodder crops in Verbraman is near. All the cattle rearers / farmers should start preparing the farm and arrange seeds of the improved variety and sow them on time."
          ]
       },
       "fisheries": {
